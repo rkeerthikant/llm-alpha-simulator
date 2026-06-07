@@ -1,0 +1,8 @@
+{
+  "name": "LLM 30-Day Trading Simulator",
+  "description": "A comparative simulation dashboard that demonstrates how different LLMs execute daily buy and sell decisions with technical, macro, and sentiment factors over a 30-day trading challenge, benchmarked against SPY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
