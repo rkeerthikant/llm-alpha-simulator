@@ -1,6 +1,7 @@
 # LLM Alpha Simulator: Proof of Concept 
 
-Date: 10/1/2024-10/31/2024
+## POC date range: 10/1/2024-10/31/2024
+
 This repository is an end-to-end proof of concept that includes a React frontend, a Node server, and an optional GenAI integration.
 
 View the live app in AI Studio: https://ai.studio/apps/15d8afdf-cc40-4f3a-bfe3-b9958998f997
