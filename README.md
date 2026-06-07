@@ -1,3 +1,18 @@
+View the embedded demo via GitHub Pages (once Pages is enabled for this repo):
+
+- GitHub Pages demo page: https://rkeerthikant.github.io/llm-alpha-simulator/demo.html
+
+Steps to enable Pages and verify inline playback:
+
+1. In your GitHub repository, go to Settings → Pages.
+2. Select the branch `main` and folder `/docs` (or set as needed), then save.
+3. Wait a minute for the site to build, then open the demo URL above.
+
+If the video does not play on the Pages site, ensure LFS objects are uploaded with:
+
+```powershell
+git lfs push --all origin main
+```
 # LLM Alpha Simulator: Proof of Concept
 
 This repository is an end-to-end proof of concept that includes a React frontend, a Node server, and an optional GenAI integration.
