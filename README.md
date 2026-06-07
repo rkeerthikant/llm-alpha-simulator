@@ -1,4 +1,4 @@
-# LLM Alpha Simulator: Proof of Concept
+# LLM Alpha Simulator: Proof of Concept (10/1/2024-10/31/2024)
 
 This repository is an end-to-end proof of concept that includes a React frontend, a Node server, and an optional GenAI integration.
 
