@@ -1,6 +1,3 @@
-# Media
-
-Screenshots illustrating the PoC are included in `assets/screenshots/`.
 # LLM Alpha Simulator: Proof of Concept
 
 This repository is an end-to-end proof of concept that includes a React frontend, a Node server, and an optional GenAI integration.
