@@ -19,7 +19,7 @@ Prerequisite: Node.js
 
 ## Demo: end-to-end walkthrough
 
-Below is a short demo recording and three screenshots that illustrate the PoC behavior.
+Below is a 3 screenshots that illustrate the PoC behavior.
 
 
 Screenshots:
